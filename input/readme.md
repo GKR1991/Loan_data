@@ -1,2 +1,1 @@
-Download the data file from the following link and unzip it here
-https://resources.lendingclub.com/LoanStats3a.csv.zip
+Download the data file from https://resources.lendingclub.com/LoanStats3a.csv.zip and unzip it in this folder
